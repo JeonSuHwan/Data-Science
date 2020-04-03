@@ -1,7 +1,7 @@
-#K is tuple of keys
+#Set tuple K about keys
 K=("White","Red","Black")
 
-#V is tuple of values
+#Set tuple V about values
 V=(1000,1001,0)
 
 def makeDict(k,v):
@@ -11,7 +11,7 @@ def makeDict(k,v):
 print("K :",K)
 print("V :",V)
 
-#dictionary
+# Print dictionary
 D=makeDict(K,V)
 print("D :", end=" ")
 for a,b in D:
