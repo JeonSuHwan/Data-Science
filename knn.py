@@ -35,7 +35,6 @@ def classify(dataset, target, category, k):
 #Set k value
 k=5
 
-def resultprint(class_result):
     
     
 
